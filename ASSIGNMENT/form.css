@@ -1,0 +1,33 @@
+form{
+    background-color: aqua;
+    padding: 30px;
+    border-radius: 8px;
+    width: 200px;
+    max-width: 400px;
+    box-shadow: 0 4px 8px;
+}
+label{
+    font-size: 14px;
+    color: black;
+    font-style: normal;
+}
+input{
+    width: 150px;
+    padding: 10px;
+    margin-top: 5PX;
+    margin-bottom: 15PX;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    color: white;
+    font: normal;
+
+}
+body{
+    align-items: center;
+    background-color: burlywood;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
